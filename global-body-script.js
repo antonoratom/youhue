@@ -172,6 +172,4 @@ $(document).ready(function () {
 //REPLACE TEXT IN HEADER BUTTON
 const linkText = document.getElementById("text-trigger").textContent;
 document.getElementById("text-target").textContent = linkText;
-console.log(linkText);
-
-console.log("test-text");
+// console.log(linkText);
