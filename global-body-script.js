@@ -173,3 +173,5 @@ $(document).ready(function () {
 const linkText = document.getElementById("text-trigger").textContent;
 document.getElementById("text-target").textContent = linkText;
 console.log(linkText);
+
+console.log("test-text");
